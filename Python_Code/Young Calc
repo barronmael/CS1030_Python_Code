@@ -1,0 +1,11 @@
+#information
+name = "Ismael"
+favHobby="Mountain Biking"
+currentYear = 2025
+birthYear = 2004
+
+#age calculation
+age = currentYear - birthYear
+#printing introduction using concatenationS
+print (f"Hello {name}! My system says your favorite hobby is {favHobby}. \n")
+print (f"It is the year {currentYear}, {name} was born in {birthYear}. So that means you are {age} years old!")
