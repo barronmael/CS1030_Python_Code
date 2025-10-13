@@ -1,0 +1,7 @@
+# CS1030 Python Code Starter File
+
+def main():
+    print("Hello, CS1030!")
+
+if __name__ == "__main__":
+    main()
