@@ -8,4 +8,4 @@ birthYear = 2004
 age = currentYear - birthYear
 #printing introduction using concatenationS
 print (f"Hello {myName}! My system says your favorite hobby is {favHobby}. \n")
-#print (f"It is the year {currentYear}, {name} was born in {birthYear}. So that means you are {age} years old!")
+print (f"It is the year {currentYear}, {name} was born in {birthYear}. So that means you are {age} years old!")
